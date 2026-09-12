@@ -5,7 +5,7 @@ function App() {
     <div>
       {/* Navbar */}
       <nav className="navbar">
-        <div className="logo">NEXORA</div>
+        <div className="logo">NEXORA69</div>
 
         <div className="nav-links">
           <a href="#home">Home</a>
@@ -18,7 +18,7 @@ function App() {
       {/* Home */}
       <section id="home" className="hero">
         <div className="hero-content">
-          <p className="small-title">WELCOME TO NEXORA</p>
+          <p className="small-title">WELCOME TO NEXORA69</p>
 
           <h1>
             Build Something
